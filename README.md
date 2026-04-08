@@ -5,11 +5,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
 ![Internship](https://img.shields.io/badge/Prodigy_Infotech-Internship-success)
 
-An interactive, two-player Tic-Tac-Toe game built with **HTML**, **CSS**, and **JavaScript**.  
-This project was developed as the **third task** of my **Prodigy Infotech Web Development Internship**.
-
----
-
 ## Overview
 
 This is a lightweight web-based implementation of the timeless Tic-Tac-Toe game. Perfect for learning and experimenting with front-end fundamentals—covering structured HTML, responsive design with CSS, and game logic using vanilla JavaScript.
